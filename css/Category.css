@@ -1,0 +1,186 @@
+.menu {
+    padding-top: 20px;
+    height: 90px;
+}
+
+.menu ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 30px;
+
+
+}
+
+.menu h2 {
+    padding-left: 70px;
+}
+
+.menu form {
+    float: right;
+    padding-right: 35px;
+
+}
+
+.banner p {
+    padding-left: 70px;
+}
+
+.banner img {
+    height: 337px;
+}
+
+
+
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    margin-top: 40px;
+}
+
+.sale {
+    padding-left: 70px;
+    margin-top: 65px;
+}
+
+.sale img {
+    width: 300px;
+}
+
+.gia {
+    display: flex;
+    font-size: 18px;
+}
+
+.giacu {
+    text-decoration: line-through;
+    color: red;
+    margin-left: 10px;
+}
+
+.sale h5 {
+    padding-top: 17px;
+}
+
+.sale button{
+    margin-top: 90px;
+    margin-left: 603px;
+    height: 56px;
+    width: 234px;
+    margin-bottom: 50px;
+
+}
+.Categories{
+    margin-bottom: 150px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.categoryrow{
+    margin-top: 50px;
+}
+.Categories img{
+    width: 180px;
+}
+.product img {
+    width: 320px;
+}
+.product button{
+    width: 140px;
+    height: 50px;
+    margin-left: 603px;
+    margin-top: 40px;
+}
+
+.product{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+
+.banner1{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 70px;
+   
+}
+.banner1 img{
+    width: 1397px;
+}
+
+.ourproduct{
+    margin-left: 70px;
+}
+.ourproduct img{
+    width: 330px;
+}
+.ourproduct button{
+    width: 140px;
+    height: 50px;
+    margin-left: 603px;
+    margin-top: 40px;
+    
+}
+.arival{
+    margin-left: 70px;
+}
+.arival img{
+    width: 700px;
+    height: 500px;
+}
+
+.arivallon img{
+    padding-left: 10px;
+    width: 700px;
+    height: 250px;
+}
+
+.arivalbebe img{
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 346.5px;
+    height: 250px;
+}
+
+.vanchuyen{
+    margin-left: 450px;
+    margin-top: 30px;
+}
+.giamd{
+    color: red;
+}
+
+.form{
+    display: flex;
+    float: right;
+}
+.red{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lienhe {
+    margin-top: 100px;
+    background-color: black;
+    height: 250px;
+    color: aliceblue;
+    padding-top: 55px;
+    padding-left: 60px;
+}
+
+h7 {
+    font-size: 12px;
+}
