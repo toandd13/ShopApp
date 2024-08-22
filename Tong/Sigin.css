@@ -1,0 +1,41 @@
+.form button{
+    width: 100px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+.form a{
+    color: red;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.form input{
+    width: 300px;
+}
+
+
+.banner{
+    margin-top: 40px;
+}
+
+.dowload{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.form{
+    margin-left:200px;
+    margin-top: 180px;
+}
+.lienhe{
+    margin-top: 100px;
+    background-color: black;
+    height: 250px;
+    color: aliceblue;
+    padding-top: 55px;
+    padding-left: 60px;
+}
+h7{
+    font-size: 12px;
+}
